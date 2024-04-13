@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desafio - Criando Sistema e Abstraindo um Celular/1.0.0": {
+        "runtime": {
+          "Desafio - Criando Sistema e Abstraindo um Celular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio - Criando Sistema e Abstraindo um Celular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

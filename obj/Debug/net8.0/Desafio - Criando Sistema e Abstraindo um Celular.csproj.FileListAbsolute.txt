@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\bin\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.exe
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\bin\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.deps.json
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\bin\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\bin\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.dll
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\bin\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.pdb
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.dll
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\refint\Desafio - Criando Sistema e Abstraindo um Celular.dll
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.pdb
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\Desafio - Criando Sistema e Abstraindo um Celular.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\Desafio - Criando Sistema e Abstraindo um Celular\obj\Debug\net8.0\ref\Desafio - Criando Sistema e Abstraindo um Celular.dll
